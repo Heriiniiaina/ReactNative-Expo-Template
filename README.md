@@ -23,5 +23,6 @@ This command moves the starter code to an app-example directory and creates a bl
 
 ### 3. Resources for Learning and Support
 
-Expo Documentation: Comprehensive documentation on Expo fundamentals and advanced topics.
-Learn Expo Tutorial: A step-by-step guide to create a cross-platform project that runs on Android, iOS, and the web.
+- [Expo Documentation](https://docs.expo.dev/): Comprehensive documentation on Expo fundamentals and advanced topics.
+- [Learn Expo Tutorial](https://docs.expo.dev/tutorial/introduction/): A step-by-step guide to create a cross-platform project that runs on Android, iOS, and the web.
+
