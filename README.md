@@ -12,5 +12,9 @@ Run the following command to install the necessary packages:
 
 ```bash
 npm install
+```
 Use this command to launch the app:
+```bash
 npx expo start
+
+```
