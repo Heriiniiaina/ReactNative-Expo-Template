@@ -13,8 +13,15 @@ Run the following command to install the necessary packages:
 ```bash
 npm install
 ```
+### 2. Start the App
 Use this command to launch the app:
 ```bash
 npx expo start
 
 ```
+This command moves the starter code to an app-example directory and creates a blank app directory for a fresh development start.
+
+### 3. Resources for Learning and Support
+
+Expo Documentation: Comprehensive documentation on Expo fundamentals and advanced topics.
+Learn Expo Tutorial: A step-by-step guide to create a cross-platform project that runs on Android, iOS, and the web.
